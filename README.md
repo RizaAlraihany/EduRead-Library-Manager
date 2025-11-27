@@ -8,7 +8,7 @@ Aplikasi web modern untuk mengelola perpustakaan pribadi — memungkinkan penggu
 
 **🔗 Klik di sini untuk mencoba aplikasi**
 
-> [https://rizaalraihany.github.io/EduRead/](https://rizaalraihany.github.io/EduRead/)
+> [https://rizaalraihany.github.io/EduRead-Library-Manager/](https://rizaalraihany.github.io/EduRead-Library-Manager/)
 
 ---
 
@@ -103,8 +103,8 @@ cd EduRead
 
 ## 📸 Tampilan Aplikasi
 
-| Desktop                                    | Tablet                                   | Mobile                                   |
-| ------------------------------------------ | ---------------------------------------- | ---------------------------------------- |
+| Desktop                                     | Tablet                                    | Mobile                                    |
+| ------------------------------------------- | ----------------------------------------- | ----------------------------------------- |
 | ![Desktop](./src/assets/images/desktop.png) | ![Tablet](./src/assets/images/tablet.png) | ![Mobile](./src/assets/images/mobile.png) |
 
 ---
